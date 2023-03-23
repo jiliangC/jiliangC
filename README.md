@@ -1,3 +1,4 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=jiliangC&show_icons=true&theme=dark&count_private=true)
+![](https://activity-graph.herokuapp.com/graph?username=jiliangC&theme=github)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jiliangC&theme=dark&layout=compact)
