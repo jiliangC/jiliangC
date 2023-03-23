@@ -8,8 +8,8 @@
 </p>
 
 ![](https://stats.justsong.cn/api/bilibili/?id=186405225&theme=dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiliangC&theme=dark&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jiliangC&show_icons=true&theme=dark&count_private=true)
 
 ![](https://activity-graph.herokuapp.com/graph?username=jiliangC&theme=github)
-![](https://activity-graph.herokuapp.com/graph?username=jiliangC&theme=github)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiliangC&theme=dark&layout=compact)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=jiliangC&theme=dracula)
+
